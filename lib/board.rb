@@ -1,1 +1,1 @@
-board = ["".times 9 ]
+board = ["".times]
