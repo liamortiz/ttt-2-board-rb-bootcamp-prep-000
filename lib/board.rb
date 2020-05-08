@@ -1,1 +1,1 @@
-board = ["".times]
+board = [9.times {return ""}]
