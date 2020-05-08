@@ -1,1 +1,1 @@
-board = [9.times {return ""}]
+board = [""] * 9
